@@ -1,75 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soham%20Deo&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soham%20Deo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Platform%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Complex+Data+into+Actionable+Insights;MSc+Computer+Science+%40+University+College+Dublin;Building+Intelligent%2C+Scalable+AI+Systems;Data-Driven+Decision+Making+%7C+Predictive+Modeling" alt="Typing SVG" />
-
-<br/>
-
-![Academic](https://img.shields.io/badge/MSc-Computer%20Science%20%40%20UCD-6D28D9?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Based%20in-Dublin%2C%20Ireland-4C1D95?style=flat-square&labelColor=0D1117)
-![Visa](https://img.shields.io/badge/Stamp%201G-Fully%20Eligible%20to%20Work%20in%20Ireland-7C3AED?style=flat-square&labelColor=0D1117)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI%2FML+Engineer;Distributed+Systems+%26+Cloud-Native+Platforms;MSc+Computer+Science+%40+University+College+Dublin;Building+Production-Grade+Intelligent+Systems" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://sohamdeo.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/sohamdeo22)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:deosoham22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sohamdeo22)
+![MSc Computer Science](https://img.shields.io/badge/MSc-Computer%20Science%20%7C%20UCD-6D28D9?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍-Dublin%2C%20Ireland-4C1D95?style=flat-square&labelColor=1a1a2e)
+![Visa](https://img.shields.io/badge/Stamp%201G-Eligible%20to%20Work%20in%20Ireland-7C3AED?style=flat-square&labelColor=1a1a2e)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sohamdeo22&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/sohamdeo22?style=flat-square&color=8b5cf6&labelColor=0D1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/sohamdeo22?style=flat-square&color=8b5cf6&labelColor=0D1117&label=Stars)
+<a href="https://www.linkedin.com/in/sohamdeo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:deosoham22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/Soham-2211"><img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Soham-2211&style=flat-square&color=6d28d9&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Soham-2211?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers)
+![Stars](https://img.shields.io/github/stars/Soham-2211?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Stars)
 
 </div>
+
+<br/>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Data Analyst and AI/ML Engineer** pursuing an **MSc in Computer Science (Negotiated Learning)** at **University College Dublin**, with a strong foundation in **software engineering, machine learning, and product-focused data systems**. My work spans the full lifecycle of a data product — from engineering robust data pipelines and training predictive models, to building end-to-end AI-driven applications and translating results into business-ready insight.
+<div align="center">
+<table>
+<tr>
+<td>
 
-At **Microsoft**, I helped design and ship an **autonomous AI Browser Agent**, combining LLM-driven reasoning with real-world task execution — bridging the gap between intelligent systems and practical automation. Earlier, at **C-DAC**, I engineered multilingual data pipelines and predictive models that pushed classification accuracy to **90%**, and at **Amazon**, I used data visualization and CRM analytics to cut case resolution time by **20%**.
+I'm a **Software Engineer & AI/ML practitioner** with an MSc in Computer Science (Negotiated Learning) from **University College Dublin**, specializing in **distributed systems, cloud-native platforms, and applied machine learning**. My engineering philosophy centers on building **production-grade, scalable, and reliable systems** — not just proof-of-concepts.
 
-I care about **clean architecture, measurable impact, and shipping systems that scale** — not just notebooks that demo well. I approach every project with a product engineering mindset: define the problem, instrument it, model it, and ship something people actually use.
+At **Microsoft**, I designed and shipped an autonomous **AI Browser Agent** as a full backend system — integrating LLM-driven decision-making, cloud-native automation, and scalable API orchestration — collaborating directly with Microsoft engineers and UCD faculty, and presenting the outcomes at Microsoft HQ.
 
-**🎯 Open To:**
+I approach every problem with a **product engineering mindset**: understanding the business context, architecting for scale, and shipping systems that hold up under real-world load. I'm equally comfortable across the stack — from data pipeline architecture and relational database design to model training, evaluation, and deployment.
 
-| | |
-|---|---|
-| 💼 **Roles** | Data Analyst · AI/ML Engineer · Data Scientist · Software Engineer (Data) |
-| 🌍 **Location** | Dublin, Ireland (Stamp 1G — no sponsorship required) · Open to hybrid/remote |
-| 🤝 **Collaboration** | Applied ML projects · Open-source data tooling · Research publications |
-| 📚 **Learning** | Cloud-native ML systems · MLOps · Recommender systems at scale |
+</td>
+</tr>
+</table>
+</div>
+
+```yaml
+🎯 Open To:
+  roles:
+    - Software Engineer
+    - Data Engineer / Data Analyst
+    - AI / ML Engineer
+    - Backend / Platform Engineer
+  engagement:
+    - Full-time opportunities
+    - Collaborative open-source contribution
+    - Research collaborations in Applied ML
+  location: "Dublin, Ireland (Stamp 1G — full work eligibility)"
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,c&theme=dark" />
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=F5C518)
+![SQL](https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5B21B6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-7C3AED?style=for-the-badge&logo=r&logoColor=white)
 
-**Data Science, Visualization & Analytics**
+**Frontend**
 
-![NumPy](https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-4C1D95?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-7C3AED?style=for-the-badge&logo=opencv&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-8B5CF6?style=for-the-badge&logo=tableau&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4C1D95?style=for-the-badge&logo=javascript&logoColor=F5C518)
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mysql,postgres,sqlite&theme=dark" />
+![Pandas](https://img.shields.io/badge/Pandas-5B21B6?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,anaconda,githubactions&theme=dark" />
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-4C1D95?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-5B21B6?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-8B5CF6?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<br/>
+
+![Skills](https://skillicons.dev/icons?i=python,java,cpp,r,html,css,js,tensorflow,postgres,azure,git,github,vscode,anaconda&theme=dark)
+
+</div>
 
 ---
 
@@ -79,13 +112,13 @@ I care about **clean architecture, measurable impact, and shipping systems that 
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ![Advanced](https://img.shields.io/badge/-Advanced-8B5CF6?style=flat-square) | Decision trees, random forests, SVM, KNN, matrix factorization, model evaluation (confusion matrix, precision/recall, F1) |
-| **Deep Learning** | ![Intermediate](https://img.shields.io/badge/-Intermediate-7C3AED?style=flat-square) | TensorFlow & Keras for classification and predictive modeling pipelines |
-| **NLP & LLM Systems** | ![Intermediate](https://img.shields.io/badge/-Intermediate-7C3AED?style=flat-square) | LLM-driven natural language parsing for autonomous task execution |
-| **Predictive Analytics** | ![Advanced](https://img.shields.io/badge/-Advanced-8B5CF6?style=flat-square) | Regression & time-series driven forecasting (stock price prediction, resolution-time modeling) |
-| **Recommender Systems** | ![Advanced](https://img.shields.io/badge/-Advanced-8B5CF6?style=flat-square) | Collaborative filtering, content-based filtering, KNN-based personalization |
-| **Data Visualization** | ![Advanced](https://img.shields.io/badge/-Advanced-8B5CF6?style=flat-square) | Power BI, Tableau, Vega-Lite, Matplotlib, Seaborn for executive-ready reporting |
-| **Computer Vision** | ![Intermediate](https://img.shields.io/badge/-Intermediate-7C3AED?style=flat-square) | OpenCV-based image processing fundamentals |
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Decision Trees, Random Forest, SVM, Linear Regression, KNN, Matrix Factorization |
+| **Deep Learning** | ⭐⭐⭐⭐ | TensorFlow, Keras, OpenCV — model design & evaluation |
+| **LLM & Agentic Systems** | ⭐⭐⭐⭐⭐ | LLM-driven decision-making, natural language parsing, autonomous browser agents |
+| **Model Evaluation** | ⭐⭐⭐⭐⭐ | Precision, Recall, F1, Confusion Matrix, Hyperparameter Tuning |
+| **Data Engineering** | ⭐⭐⭐⭐⭐ | Scalable data pipelines, web scraping at scale, ETL, NoSQL-compatible structures |
+| **Recommender Systems** | ⭐⭐⭐⭐ | Collaborative & content-based filtering, KNN-based personalization |
+| **Data Visualization & BI** | ⭐⭐⭐⭐⭐ | Power BI, Tableau, Vega-Lite, Advanced Excel dashboards |
 
 </div>
 
@@ -97,18 +130,18 @@ I care about **clean architecture, measurable impact, and shipping systems that 
 <summary><b>🌐 AI Browser Agent for Web Automation</b></summary>
 <br/>
 
-An autonomous AI agent that translates natural-language commands into executable browser actions — ticket booking, e-commerce cart automation, and media interaction — built during an internship at Microsoft and presented at Microsoft HQ.
+Production-grade autonomous backend agent built with the `browser-use` package, fusing LLM-driven natural language parsing with browser automation to execute complex, multi-step web tasks reliably at scale — from ticket booking to cart automation to media control.
 
-| | |
+| Attribute | Details |
 |---|---|
-| **Stack** | Python, `browser-use`, LLM APIs, browser automation |
-| **Scale** | Multi-task autonomous agent across 3+ real-world workflows |
-| **Performance** | End-to-end task completion with minimal human intervention |
-| **Security** | Scoped, permissioned browser actions with human-in-the-loop fallback |
-| **Impact** | Reduced manual effort in repetitive online interactions; showcased at Microsoft HQ |
-| **Repository** | [github.com/sohamdeo22/ai-browser-agent](https://github.com/sohamdeo22/ai-browser-agent) |
+| **Stack** | Python, LLM Orchestration, `browser-use`, REST APIs, Cloud-Native Automation |
+| **Scale** | Multi-step task execution across arbitrary websites, end-to-end command ingestion → action output |
+| **Performance** | Modular architecture with robust error handling for reliable real-world execution |
+| **Security** | Controlled action orchestration with validation at each execution step |
+| **Impact** | Presented at Microsoft HQ; built with Microsoft engineers & UCD faculty |
+| **Repository** | [View on GitHub](https://github.com/Soham-2211) |
 
-Integrated LLM-driven natural language parsing with browser automation so the agent could analyze a task, decide on a sequence of actions, and execute them independently — moving beyond scripted automation toward decision-making agents.
+Designed the full system architecture — from user command ingestion to action execution — applying OOP principles, modular design, and production-grade error handling to demonstrate end-to-end ownership of a distributed, real-world software system.
 
 </details>
 
@@ -116,37 +149,37 @@ Integrated LLM-driven natural language parsing with browser automation so the ag
 <summary><b>🛡️ Phishing Detection Using ML-Based URL Classification</b></summary>
 <br/>
 
-A machine learning system that classifies URLs as phishing or legitimate in real time, published in the *International Journal of Creative Research Thoughts (IJCRT)*.
+Machine learning system to classify URLs as phishing or legitimate for real-time cybersecurity defense, built and validated using industry-standard evaluation practices. Published in the **International Journal of Creative Research Thoughts (IJCRT)**.
 
-| | |
+| Attribute | Details |
 |---|---|
-| **Stack** | Python, Scikit-Learn, Pandas, NumPy |
-| **Scale** | Trained across engineered URL feature sets (domain length, special characters, structure) |
-| **Performance** | High accuracy via decision trees, random forest, and SVM ensembles |
-| **Security** | Real-time phishing/spam identification pipeline |
-| **Impact** | Published research (IJCRT24A4705); 2nd place, Smart India Hackathon |
-| **Repository** | [github.com/sohamdeo22/phishing-url-classifier](https://github.com/sohamdeo22/phishing-url-classifier) |
+| **Stack** | Python, Scikit-Learn, Decision Trees, Random Forest, SVM |
+| **Scale** | URL feature extraction pipeline across large-scale phishing/legitimate datasets |
+| **Performance** | High accuracy, validated via Precision, Recall, F1, Confusion Matrix |
+| **Security** | Real-time phishing detection engine for cybersecurity applications |
+| **Impact** | Published research (IJCRT24A4705) · 2nd Place, Smart India Hackathon |
+| **Repository** | [View on GitHub](https://github.com/Soham-2211) |
 
-Extracted key structural URL features and benchmarked multiple classifiers using confusion matrices, precision, recall, and F1 score to optimize real-time detection efficiency.
+Extracted key URL-based features and benchmarked multiple classification algorithms, consistent with industry best practices for ML model development and reporting.
 
 </details>
 
 <details>
-<summary><b>📈 Stock Price Prediction — Yahoo Finance Scraper</b></summary>
+<summary><b>📈 Stock Price Prediction — Yahoo Finance Data Pipeline</b></summary>
 <br/>
 
-An end-to-end pipeline that scrapes, cleans, and models real-time stock data to generate price predictions and trend visualizations.
+End-to-end backend data ingestion pipeline scraping, cleaning, and processing real-time financial data at scale, feeding into predictive ML models for stock trend forecasting.
 
-| | |
+| Attribute | Details |
 |---|---|
-| **Stack** | Python, BeautifulSoup, Requests, Pandas, NumPy, Scikit-Learn |
-| **Scale** | Real-time scraping across live Yahoo Finance data feeds |
-| **Performance** | Optimized via hyperparameter tuning on linear regression & random forest models |
-| **Security** | Rate-limited, resilient scraping design |
-| **Impact** | Actionable trend visualizations supporting prediction-driven decisions |
-| **Repository** | [github.com/sohamdeo22/stock-price-prediction](https://github.com/sohamdeo22/stock-price-prediction) |
+| **Stack** | Python, BeautifulSoup, Requests, Pandas, NumPy, Matplotlib, Seaborn |
+| **Scale** | Real-time scraping & processing pipeline across multiple financial instruments |
+| **Performance** | Optimized processing with NoSQL-compatible structures & hyperparameter tuning |
+| **Security** | Rate-aware scraping with clean data validation layers |
+| **Impact** | Delivered accurate, visualized prediction insights for trend analysis |
+| **Repository** | [View on GitHub](https://github.com/Soham-2211) |
 
-Combined web scraping with regression-based forecasting, visualizing results with Matplotlib and Seaborn to make model output interpretable for decision-making.
+Built and optimized Linear Regression and Random Forest models, visualizing stock trends to generate accurate, actionable prediction insights.
 
 </details>
 
@@ -154,18 +187,18 @@ Combined web scraping with regression-based forecasting, visualizing results wit
 <summary><b>🎬 MultiRec — Movie & Song Recommender System</b></summary>
 <br/>
 
-A hybrid recommendation engine suggesting movies and songs based on user preference and behavioral signals.
+Personalized recommendation engine combining collaborative and content-based filtering to suggest movies and songs based on user preferences and behavior.
 
-| | |
+| Attribute | Details |
 |---|---|
-| **Stack** | Python, Scikit-Learn, Pandas, NumPy |
-| **Scale** | Collaborative + content-based filtering across large preference datasets |
-| **Performance** | KNN and matrix factorization tuned for recommendation accuracy |
-| **Security** | N/A — offline recommendation pipeline |
-| **Impact** | Improved personalization accuracy across two content domains (movies & music) |
-| **Repository** | [github.com/sohamdeo22/multirec](https://github.com/sohamdeo22/multirec) |
+| **Stack** | Python, Scikit-Learn, Pandas, NumPy, KNN, Matrix Factorization |
+| **Scale** | Large-scale user-item interaction datasets |
+| **Performance** | Improved recommendation accuracy via hybrid filtering approach |
+| **Security** | N/A — offline recommendation engine |
+| **Impact** | Delivered personalized, behavior-driven recommendations |
+| **Repository** | [View on GitHub](https://github.com/Soham-2211) |
 
-Blended collaborative filtering with content-based signals so recommendations stayed accurate even in sparse-data (cold start) scenarios.
+Implemented K-Nearest Neighbors and matrix factorization techniques to power personalized, behavior-aware recommendations.
 
 </details>
 
@@ -173,35 +206,53 @@ Blended collaborative filtering with content-based signals so recommendations st
 
 ## 💼 Experience
 
-### AI Research and Development Intern — Microsoft, Dublin
-`Jun 2025 – Sept 2025`
+### Data Analyst — Rigvesoft Pvt Ltd
+**Jul 2025 – Present**
 
-Collaborated with Microsoft mentors and UCD faculty to design and build an autonomous AI Browser Agent capable of independently analyzing, deciding, and executing tasks.
+Building interactive analytics infrastructure that transforms multi-source data into actionable, cross-functional insights.
 
-- Explored AI-driven automation, intelligent systems, and cloud technologies to transform traditional browsing into a smart, scalable, automated experience
-- Presented the project at Microsoft HQ, showcasing technical innovation and future applications of AI agents in human-computer interaction
+- Built and maintained 3 interactive dashboards across Power BI, Tableau, SQL, and Python
+- Improved data accuracy by 95% by standardizing data collection and validation frameworks
+- Partnered with cross-functional stakeholders to define data requirements and reporting standards
 
-![Python](https://img.shields.io/badge/-Python-4C1D95?style=flat-square) ![LLMs](https://img.shields.io/badge/-LLMs-4C1D95?style=flat-square) ![Automation](https://img.shields.io/badge/-Automation-4C1D95?style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-4C1D95?style=flat-square)
+`Power BI` `Tableau` `SQL` `Python` `Data Governance`
 
-### Machine Learning Intern — C-DAC (Centre for Development of Advanced Computing), India
-`Mar 2024 – Jun 2024`
+<br/>
 
-Enhanced and developed a web scraping and analysis tool for efficient data crawling, cleaning, and manipulation to extract actionable insights.
+### AI Research and Development Intern — Microsoft
+**Jun 2025 – Sept 2025**
 
-- Built multilingual datasets and designed a predictive ML model to automate extraction of valuable website data
-- Optimized performance using decision trees and confusion matrices, improving model accuracy to **90%**
+Designed and implemented a production-grade autonomous AI Browser Agent, demonstrating end-to-end ownership of a distributed, real-world software system.
 
-![Python](https://img.shields.io/badge/-Python-6D28D9?style=flat-square) ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-6D28D9?style=flat-square) ![Web%20Scraping](https://img.shields.io/badge/-Web%20Scraping-6D28D9?style=flat-square) ![NLP](https://img.shields.io/badge/-Multilingual%20NLP-6D28D9?style=flat-square)
+- Built cloud-native automation integrating LLM-driven decision-making with scalable API orchestration
+- Collaborated with Microsoft engineers and UCD faculty to translate business requirements into platform capabilities
+- Presented technical outcomes and future applications of AI agents at Microsoft HQ
 
-### Resolutions Specialist — Amazon, India
-`Jun 2023 – Nov 2023`
+`Python` `LLM Orchestration` `Cloud-Native Automation` `REST APIs` `Distributed Systems`
 
-Analyzed case resolution data using CRM tools and built visualization reports to track resolution time, accuracy, and performance against key metrics.
+<br/>
 
-- Drove data-informed decision-making through performance dashboards
-- Partnered with cross-functional teams to streamline logistics and returns, reducing case resolution time by **20%**
+### Machine Learning Intern — C-DAC (Centre for Development of Advanced Computing)
+**Mar 2024 – Jun 2024**
 
-![CRM](https://img.shields.io/badge/-CRM%20Analytics-7C3AED?style=flat-square) ![Excel](https://img.shields.io/badge/-Advanced%20Excel-7C3AED?style=flat-square) ![Data%20Viz](https://img.shields.io/badge/-Data%20Visualization-7C3AED?style=flat-square) ![Process%20Optimization](https://img.shields.io/badge/-Process%20Optimization-7C3AED?style=flat-square)
+Developed a full-scale web scraping, cleaning, and analysis engine to extract actionable multilingual insights.
+
+- Built multilingual datasets and a predictive ML model to automate website data extraction
+- Optimized model performance using decision trees and confusion matrices, reaching 90% accuracy
+
+`Python` `Web Scraping` `Decision Trees` `Multilingual NLP`
+
+<br/>
+
+### CAP Associate — Operations & Fraud Analyst — Amazon
+**May 2022 – Oct 2022**
+
+Analyzed high-volume operational data to monitor platform performance and drive measurable process improvements.
+
+- Monitored platform performance and identified bottlenecks using CRM tools and SQL-based queries
+- Reduced case resolution time by 20% through cross-functional efficiency initiatives
+
+`SQL` `CRM Analytics` `Process Optimization`
 
 ---
 
@@ -211,10 +262,11 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 
 | Recognition | Details |
 |---|---|
-| 🥈 **2nd Place — Smart India Hackathon (SIH)** | Led a team of five among Pune's top colleges; built an AI-driven Phishing Detection System |
-| 📄 **Published Researcher — IJCRT** | *Phishing Detection Using ML Based URL Classification*, IJCRT24A4705 (May 2024) |
-| 📄 **Conference Paper — 12th ICST** | Survey paper presented at the 12th International Conference on Science and Technology, Vol. 12 (April 2024) |
-| 🎓 **First Class Honours — B.Tech** | CGPA 9.2, ranked among top students in the CS Department |
+| 🥈 **2nd Place — Smart India Hackathon (SIH)** | Led a team of 5 to build an AI-driven Phishing Detection System, competing among Pune's top colleges |
+| 📄 **Published Researcher — IJCRT** | *Phishing Detection Using ML Based URL Classification*, IJCRT24A4705, May 2024 |
+| 📄 **Conference Paper** | Survey paper, 12th International Conference on Science and Technology, Vol. 12, April 2024 |
+| 🎓 **First Class Honours** | B.Tech, CGPA 9.2 — ranked among top students in the CS Department |
+| 🏢 **Presented at Microsoft HQ** | Showcased the AI Browser Agent to Microsoft engineering leadership |
 
 </div>
 
@@ -222,35 +274,33 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 
 ## 📜 Certifications
 
+<div align="center">
+
 **Microsoft**
 
-![DP-900](https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-6D28D9?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AI-900](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-6D28D9?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**IBM**
-
-![IBM](https://img.shields.io/badge/Python%20for%20Data%20Science-IBM%20Certified-4C1D95?style=for-the-badge&logo=ibm&logoColor=white)
+![Azure Data Fundamentals](https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-6D28D9?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-7C3AED?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Oracle**
 
-![Oracle](https://img.shields.io/badge/Cloud%20Infrastructure%20Foundations-Oracle%20Certified-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Cloud%20Infrastructure%20Foundations-Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white)
 
-<div align="center">
+**IBM**
 
-[![View All Certifications](https://img.shields.io/badge/View%20All%20Certifications-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://sohamdeo.dev/certifications)
+![IBM Python](https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-5B21B6?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 🧩 Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sohamdeo22)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sohamdeo22)
-[![HackerRank](https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sohamdeo22)
-[![CodeChef](https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sohamdeo22)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
@@ -260,10 +310,12 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohamdeo22&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&border_radius=12" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=sohamdeo22&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280&border_radius=12" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soham-2211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&ring_color=6D28D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-2211&theme=tokyonight&hide_border=true&background=0d0221&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdeo22&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8&border_radius=12" width="49%"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-2211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
 
 </div>
 
@@ -273,7 +325,7 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sohamdeo22&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Soham-2211&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -283,7 +335,7 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo22&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E5E7EB&area=true&area_color=6D28D9" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-2211&theme=react-dark&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -293,7 +345,7 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sohamdeo22/sohamdeo22/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/Soham-2211/Soham-2211/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -304,19 +356,20 @@ Analyzed case resolution data using CRM tools and built visualization reports to
 ```yaml
 current_focus:
   learning:
-    - Cloud-native ML deployment (Azure ML, Docker)
-    - MLOps pipelines & model monitoring
-    - Advanced recommender systems at scale
+    - Advanced Distributed Systems Design
+    - Large Language Model Agentic Architectures
+    - Cloud-Native Platform Engineering on Azure
   building:
-    - AI-driven browser automation agents
-    - End-to-end predictive analytics pipelines
+    - Scalable AI-powered automation agents
+    - Data platform tooling for real-time analytics
   exploring:
-    - LLM orchestration & agentic workflows
-    - Real-time data visualization at enterprise scale
+    - Multi-agent LLM orchestration frameworks
+    - Production MLOps pipelines
   open_to:
-    - Data Analyst / AI-ML Engineer roles in Dublin & EU (hybrid/remote)
-    - Applied research collaborations
-    - Open-source contributions in data tooling
+    - Software Engineering roles
+    - AI / ML Engineering roles
+    - Data Engineering & Analytics roles
+    - Open-source collaboration
 ```
 
 ---
@@ -325,10 +378,9 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/deosoham22%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:deosoham22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/sohamdeo22)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/sohamdeo22)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://sohamdeo.dev)
+<a href="mailto:deosoham22@gmail.com"><img src="https://img.shields.io/badge/Gmail-deosoham22%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sohamdeo/"><img src="https://img.shields.io/badge/LinkedIn-sohamdeo-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Soham-2211"><img src="https://img.shields.io/badge/GitHub-Soham--2211-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -336,8 +388,8 @@ current_focus:
 
 <div align="center">
 
-*"Data tells the story — engineering makes it scale."*
+*"Engineering isn't about writing code — it's about building systems that hold up when it matters."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
 
 </div>
