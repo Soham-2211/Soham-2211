@@ -289,6 +289,10 @@ Analyzed high-volume operational data to monitor platform performance and drive 
 
 ![IBM Python](https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-5B21B6?style=for-the-badge&logo=ibm&logoColor=white)
 
+<br/>
+
+[![Credly](https://img.shields.io/badge/Credly-View%20All%20Badges-A78BFA?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soham-deo/badges/credly)
+
 </div>
 
 ---
@@ -297,10 +301,7 @@ Analyzed high-volume operational data to monitor platform performance and drive 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Soham__Deo-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Soham_Deo/)
 
 </div>
 
